@@ -1,0 +1,15 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'Example' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for Example
+  # 按配置合并引用
+#     pod 'MergePodsSDK', :path => '../src/'
+     pod 'MergePodsSDK2', :path => '../src/'
+    #单独引用
+#  pod 'LdsLogger', :path => '../src/LdsLogger/'
+#  pod 'LdsHttp', :path => '../src/LdsHttp/'
+end

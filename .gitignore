@@ -66,3 +66,9 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+Pods/
+Podfile.lock
+Example/Example.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+Example/Example.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+Example/Example.xcworkspace/contents.xcworkspacedata
+Example/Example.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
